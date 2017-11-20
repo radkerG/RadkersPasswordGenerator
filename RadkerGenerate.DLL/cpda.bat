@@ -1,0 +1,1 @@
+csc /target:library /out:RadkerGenerate.dll Radker.cs
